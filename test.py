@@ -1,0 +1,5 @@
+X_test = np.load("/folds/2_GTzan_Xs_test_fold3_110250_75_frozen.npy")
+Y_test = np.load("/folds/2_GTzan_Ys_test_fold3_110250_75_frozen.npy")
+score = model.evaluate(X_test, Y_test, verbose=0)
+print('Test loss:', score[0])
+print('Test accuracy:', score[1])
