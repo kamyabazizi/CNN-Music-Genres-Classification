@@ -39,7 +39,8 @@
   ```shell
   python train.py
   ```
-  
+  Output:
+ 
  <p align="center">
   <img src="result.jpg" width=600>
  </p>
