@@ -1,3 +1,5 @@
+# Download the dataset
+
 Before running train.py, download and keep the training data in this folder from the below google drive links:
 
   **Training data:**
@@ -37,4 +39,12 @@ The gtzan8 audio dataset contains 1000 tracks of 30 second length. There are 10 
 
  * rock
 
+ # Preprocessing
 
+  This folder contains the preprocessed data by taking the Mel-frequency spectrogram of audio clips and saving them in .npy files.
+  
+  **Mel-frequency spectrogram:**
+  
+   <p align="center">
+    <img src="Mel.jpg" width=600>
+   </p>
