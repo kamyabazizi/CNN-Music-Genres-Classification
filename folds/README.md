@@ -13,3 +13,28 @@ Before running train.py, download and keep the training data in this folder from
   https://drive.google.com/file/d/1-5PHlDQSIW6wsm8f5vvxyaOFLmZ5jfp5/view?usp=sharing
   
 This folder contains the preprocessed data from the GTZAN Dataset with 10 different classes of music genres.
+
+
+The gtzan8 audio dataset contains 1000 tracks of 30 second length. There are 10 genres, each containing 100 tracks which are all 22050Hz Mono 16-bit audio files in .wav format. The genres are:
+
+ * blues
+
+ * classical
+
+ * country
+
+ * disco
+
+ * hiphop
+
+ * jazz
+
+ * metal
+
+ * pop 
+
+ * reggae
+
+ * rock
+
+
