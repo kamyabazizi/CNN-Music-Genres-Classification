@@ -1,4 +1,4 @@
-Before running main.py, download and keep the training data in this file from the below google drive links:
+Before running main.py, download and keep the training data in this folder from the below google drive links:
 
 https://drive.google.com/file/d/1E9BBIPWadHhcEYAq_t2jrmZrMmyODyjd/view?usp=sharing
 
