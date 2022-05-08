@@ -46,5 +46,5 @@ The gtzan8 audio dataset contains 1000 tracks of 30 second length. There are 10 
   **Mel-frequency spectrogram:**
   
    <p align="center">
-    <img src="Mel.jpg" width=600>
+    <img src="Mel.jpg" width=800>
    </p>
