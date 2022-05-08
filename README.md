@@ -16,3 +16,19 @@
   ```shell
   pip install livelossplot
   ```
+
+* **Dataset**
+
+  Before running train.py, download and keep the training and test data in folds from the below google drive links:
+  
+  **Training data:**
+  
+  https://drive.google.com/file/d/1E9BBIPWadHhcEYAq_t2jrmZrMmyODyjd/view?usp=sharing
+
+  https://drive.google.com/file/d/1-75xNU0Bwsk4AEibswywkY6HlvDSkhnP/view?usp=sharing
+  
+  **Test data:**
+  
+  https://drive.google.com/file/d/1-5PHlDQSIW6wsm8f5vvxyaOFLmZ5jfp5/view?usp=sharing
+  
+  https://drive.google.com/file/d/1-5PHlDQSIW6wsm8f5vvxyaOFLmZ5jfp5/view?usp=sharing
