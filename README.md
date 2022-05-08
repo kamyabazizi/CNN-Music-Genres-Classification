@@ -21,14 +21,38 @@
 
   Before running train.py, download and keep the training and test data in folds from the below google drive links:
   
-  **Training data:**
+  - **Training data:**
   
-  https://drive.google.com/file/d/1E9BBIPWadHhcEYAq_t2jrmZrMmyODyjd/view?usp=sharing
+    https://drive.google.com/file/d/1E9BBIPWadHhcEYAq_t2jrmZrMmyODyjd/view?usp=sharing
 
-  https://drive.google.com/file/d/1-75xNU0Bwsk4AEibswywkY6HlvDSkhnP/view?usp=sharing
+    https://drive.google.com/file/d/1-75xNU0Bwsk4AEibswywkY6HlvDSkhnP/view?usp=sharing
   
-  **Test data:**
+  - **Test data:**
   
-  https://drive.google.com/file/d/1-5PHlDQSIW6wsm8f5vvxyaOFLmZ5jfp5/view?usp=sharing
+    https://drive.google.com/file/d/1-5PHlDQSIW6wsm8f5vvxyaOFLmZ5jfp5/view?usp=sharing
   
-  https://drive.google.com/file/d/1-5PHlDQSIW6wsm8f5vvxyaOFLmZ5jfp5/view?usp=sharing
+    https://drive.google.com/file/d/1-5PHlDQSIW6wsm8f5vvxyaOFLmZ5jfp5/view?usp=sharing
+  
+* **Taining**
+
+  Start training:
+  ```shell
+  python train.py
+  ```
+  
+ <p align="center">
+  <img src="result.jpg" width=600>
+ </p>
+
+* **Test**
+   
+   Test accuracy:
+   ```shell
+   python test.py
+   ```
+   
+   Output:
+   
+   **Test loss: 2.433227300643921**
+   
+   **Test accuracy: 0.8099055290222168**
