@@ -11,7 +11,7 @@
   ```
 
 * Installation
-Install the livelossplot:
+  Install the livelossplot:
   ```shell
   pip install livelossplot
   ```
