@@ -44,8 +44,8 @@ test_fold = 3
 str_train_fold = "fold"+str(train_fold[0])+"-"+str(train_fold[1])
 
 #Training data
-X_train = np.load( "/folds_mf/2_GTzan_Xs_train_"+str_train_fold+"_110250_75_frozen.npy" )
-Y_train = np.load( "/folds_mf/2_GTzan_Ys_train_"+str_train_fold+"_110250_75_frozen.npy" )
+X_train = np.load( "/folds/2_GTzan_Xs_train_"+str_train_fold+"_110250_75_frozen.npy" )
+Y_train = np.load( "/folds/2_GTzan_Ys_train_"+str_train_fold+"_110250_75_frozen.npy" )
 
 # Adapt 1D data to 2D CNN
 X_train = np.squeeze(X_train)
